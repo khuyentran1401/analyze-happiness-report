@@ -16,6 +16,6 @@ Data source is retrieved from [Kaggle World Happiness Report](https://www.kaggle
   * Jointplot: Find the correlation between different features and happiness rank
   * Heatmap: Find the correlation of features in different regions
   
-  ![image](https://github.com/khuyentran1401/analyze-happiness-report/blob/master/Screenshot%202020-04-06%2011.03.29.png?raw=true)
+  ![image](https://github.com/khuyentran1401/analyze-happiness-report/blob/master/Screenshot%202020-04-06%2011.03.29.png?raw=true) 
  
 
